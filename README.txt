@@ -2,6 +2,11 @@ Name: Filmon Berhane
 St# 101126798
 comp3005-A
 
+Available for demo:
+	at 11:00am-11:59am, 
+	4:30pm-5:30pm, 
+	6pm-7pm
+
 files attached: ERandSchema.pdf, DDL.sql, Functions.sql, Queries.sql, 
 				Triggers.sql, BookStore.java, User.java, Owner.java, Book.java
 
