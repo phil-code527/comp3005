@@ -6,6 +6,7 @@ files attached: ERandSchema.pdf, DDL.sql, Functions.sql, Queries.sql,
 				Triggers.sql, BookStore.java, User.java, Owner.java, Book.java
 
 github link:
+	https://github.com/phil-code527/comp3005
 
 how to run code:
 	- My code asumes a bookstore database is creates
